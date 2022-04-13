@@ -1,5 +1,3 @@
-# my-notes
-task 1
 # ***Paragraph 1***
 ![python image](https://media-exp1.licdn.com/dms/image/C5603AQGCMeeeZsiQLg/profile-displayphoto-shrink_200_200/0/1644131332253?e=1655337600&v=beta&t=VHuAp0_ep3aAwPjQQdgc9THlqwbb0ZagRZJ-hlpoqgk)
 
@@ -18,5 +16,3 @@ Software become useful and helpful for people when it has written simple as poss
 And there is a lot of instructions and advices but there is a sentence caught my attention
 
  **"start small, improve it, then extend"**  that is wisdom for building software.
- 
- refrance [chlick me](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
